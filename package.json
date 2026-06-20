@@ -1,0 +1,19 @@
+{
+  "name": "tho-san-nhua-rebuild",
+  "version": "2.1.1",
+  "private": true,
+  "type": "module",
+  "description": "Thợ Săn Nhựa - rebuild static web game using 2 WebP maps and object layer.",
+  "scripts": {
+    "predev": "node scripts/check_assets.js",
+    "dev": "node server.js .",
+    "build": "node build.js",
+    "preview": "node server.js dist",
+    "tiles": "node scripts/prepare_maps.js",
+    "slices": "node scripts/prepare_maps.js -- --slices-only",
+    "make-tiles": "node scripts/prepare_maps.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

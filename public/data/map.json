@@ -1,0 +1,10 @@
+{
+  "version": "4.0",
+  "mode": "tiled-clean-map-plus-sliced-trash",
+  "width": 16383,
+  "height": 10922,
+  "cleanTiles": "/assets/tiles/manifest.json",
+  "sliceManifest": "/assets/slices/manifest.json",
+  "clean": "/assets/maps/map-clean.webp",
+  "withTrash": "/assets/maps/map-with-trash.webp"
+}

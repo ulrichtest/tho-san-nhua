@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "note": "Ảnh prop đặt thủ công lên map sạch — không cắt từ map có rác.",
+  "props": [
+    {
+      "id": "trash-bags",
+      "label": "Túi rác đen",
+      "src": "/assets/facts/trash-bags.png"
+    }
+  ]
+}

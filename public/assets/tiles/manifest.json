@@ -1,0 +1,54 @@
+{
+  "version": "4.0",
+  "mode": "tiled-clean-map-plus-sliced-trash",
+  "width": 16383,
+  "height": 10922,
+  "tileSize": 512,
+  "maxZoom": 4,
+  "levels": [
+    {
+      "z": 0,
+      "scale": 0.0625,
+      "width": 1024,
+      "height": 683,
+      "cols": 2,
+      "rows": 2
+    },
+    {
+      "z": 1,
+      "scale": 0.125,
+      "width": 2048,
+      "height": 1365,
+      "cols": 4,
+      "rows": 3
+    },
+    {
+      "z": 2,
+      "scale": 0.25,
+      "width": 4096,
+      "height": 2730,
+      "cols": 8,
+      "rows": 6
+    },
+    {
+      "z": 3,
+      "scale": 0.5,
+      "width": 8192,
+      "height": 5461,
+      "cols": 16,
+      "rows": 11
+    },
+    {
+      "z": 4,
+      "scale": 1,
+      "width": 16383,
+      "height": 10922,
+      "cols": 32,
+      "rows": 22
+    }
+  ],
+  "sets": {
+    "clean": "/assets/tiles/clean/z{z}/{x}_{y}.webp",
+    "withTrash": "/assets/tiles/withTrash/z{z}/{x}_{y}.webp"
+  }
+}

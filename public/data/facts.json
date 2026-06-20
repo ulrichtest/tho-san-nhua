@@ -1,0 +1,45 @@
+{
+  "version": "1.0",
+  "facts": [
+    {
+      "id": "fact_01",
+      "title": "Chim",
+      "text": "Nhiều loài chim nhầm mảnh nhựa là thức ăn. Khi nuốt phải, nhựa có thể làm chúng no giả, khó tiêu hóa và giảm khả năng sống sót."
+    },
+    {
+      "id": "fact_02",
+      "title": "Cột khói nhà máy",
+      "text": "Việc sản xuất nhựa tạo ra lượng lớn khí thải ra môi trường."
+    },
+    {
+      "id": "fact_03",
+      "title": "Con cá dưới kênh nước",
+      "text": "Vi nhựa đã được tìm thấy trong nhiều loài cá và sinh vật thủy sinh. Điều này cho thấy rác nhựa ngoài sông, kênh, biển có thể quay lại chuỗi thức ăn của con người."
+    },
+    {
+      "id": "fact_04",
+      "title": "Cái cây bất kì",
+      "text": "Thiên nhiên cần rất lâu để xử lý lượng nhựa con người tạo ra."
+    },
+    {
+      "id": "fact_05",
+      "title": "Anh shipper giao đồ ăn",
+      "text": "Thói quen giao đồ ăn làm tăng lượng bao bì nhựa dùng một lần."
+    },
+    {
+      "id": "fact_06",
+      "title": "Bé ăn kẹo cao su",
+      "text": "Nhai kẹo cao su có thể giải phóng hàng trăm hạt vi nhựa vào nước bọt, với trung bình khoảng 100 hạt trên mỗi gam kẹo cao su."
+    },
+    {
+      "id": "fact_07",
+      "title": "Người chạy bộ",
+      "text": "Một chiếc bình dùng lại nhiều lần có thể thay thế rất nhiều chai nhựa dùng một lần. Thay đổi nhỏ trong thói quen hằng ngày cũng giúp giảm rác nhựa đáng kể."
+    },
+    {
+      "id": "fact_08",
+      "title": "Túi rác đen",
+      "text": "Nhiều món nhựa có thể tái chế nhưng lại bị bỏ chung với rác sinh hoạt. Khi dính thức ăn, nước bẩn hoặc rác nhà bếp, chúng mất cơ hội được tái chế."
+    }
+  ]
+}

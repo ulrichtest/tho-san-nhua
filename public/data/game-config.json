@@ -1,0 +1,42 @@
+{
+  "timeLimitSeconds": 300,
+  "scoreCorrect": 10,
+  "scoreWrong": -10,
+  "scorePiece": 50,
+  "totalTrashTarget": 50,
+  "totalPieces": 4,
+  "ranks": [
+    { "minScore": 0, "name": "Thợ săn tập sự", "icon": "/assets/ui/rank-badge-1.png" },
+    { "minScore": 100, "name": "Thợ săn chăm chỉ", "icon": "/assets/ui/rank-badge-2.png" },
+    { "minScore": 250, "name": "Thợ săn tài năng", "icon": "/assets/ui/rank-badge-3.png" },
+    { "minScore": 500, "name": "Thợ săn chuyên nghiệp", "icon": "/assets/ui/rank-badge-4.png" },
+    { "minScore": 800, "name": "Bậc thầy săn nhựa", "icon": "/assets/ui/rank-badge-5.png" }
+  ],
+  "message": "Vòng đời ngắn của nhựa đang tạo ra một vòng đời dài của ô nhiễm. Đừng để món đồ bạn dùng trong vài phút trở thành gánh nặng của môi trường trong nhiều năm.",
+  "bins": [
+    {
+      "id": "recycle",
+      "name": "Tái chế",
+      "color": "#65b843",
+      "image": "/assets/ui/bin-recycle.png"
+    },
+    {
+      "id": "reuse",
+      "name": "Tái sử dụng",
+      "color": "#f5b837",
+      "image": "/assets/ui/bin-reuse.png"
+    },
+    {
+      "id": "low-value",
+      "name": "Rác nhựa khó tái chế",
+      "color": "#333333",
+      "image": "/assets/ui/bin-low-value.png"
+    },
+    {
+      "id": "contaminated",
+      "name": "Rác nhựa ô nhiễm",
+      "color": "#d92835",
+      "image": "/assets/ui/bin-contaminated.png"
+    }
+  ]
+}

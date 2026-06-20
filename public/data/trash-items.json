@@ -1,0 +1,1032 @@
+{
+  "version": "2.0",
+  "source": "Excel + asset package",
+  "items": [
+    {
+      "id": "trash_001",
+      "name": "Bình thuốc trừ sâu",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 4,
+      "decomposeTime": "Không thể tái chế — cần xử lý riêng",
+      "explanation": "Vỏ bình có thể còn sót hóa chất độc hại. Nếu bỏ lẫn với rác nhựa thường, hóa chất có thể gây ô nhiễm đất, nước và ảnh hưởng đến người thu gom.",
+      "image": "/assets/trash/trash_001-binh-thuoc-tru-sau.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.05811,
+        "y": 0.37729
+      },
+      "hotspotId": "hotspot_011",
+      "imageOriginal": "Bình thuốc trừ sâu.png",
+      "shortExplanation": "Vỏ bình có thể còn sót hóa chất độc hại. Nếu bỏ lẫn với rác nhựa thường, hóa chất có thể gây ô nhiễm đất, nước và ảnh hưởng đến người thu gom."
+    },
+    {
+      "id": "trash_002",
+      "name": "Dây thít nhựa",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Dây thít nhỏ, mảnh và thường chỉ dùng một lần. Kích thước quá nhỏ khiến nó dễ lọt khỏi hệ thống phân loại rác.",
+      "image": "/assets/trash/trash_002-day-thit-nhua.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.63428,
+        "y": 0.62527
+      },
+      "hotspotId": "hotspot_034",
+      "imageOriginal": "Dây thít nhựa.png",
+      "shortExplanation": "Dây thít nhỏ, mảnh và thường chỉ dùng một lần. Kích thước quá nhỏ khiến nó dễ lọt khỏi hệ thống phân loại rác."
+    },
+    {
+      "id": "trash_003",
+      "name": "Ly trà sữa nhựa đã qua sử dụng",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 4,
+      "decomposeTime": "Không thể tái chế — cần xử lý riêng",
+      "explanation": "Ly còn dính sữa, đường và topping nên dễ bốc mùi, thu hút côn trùng và làm bẩn các loại nhựa có thể tái chế khác.",
+      "image": "/assets/trash/trash_003-ly-tra-sua-nhua-da-qua-su-dung.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.9502,
+        "y": 0.91905
+      },
+      "hotspotId": "hotspot_056",
+      "imageOriginal": "Ly trà sữa nhựa đã qua sử dụng.png",
+      "shortExplanation": "Ly còn dính sữa, đường và topping nên dễ bốc mùi, thu hút côn trùng và làm bẩn các loại nhựa có thể tái chế khác."
+    },
+    {
+      "id": "trash_004",
+      "name": "Vịt đồ chơi nhựa",
+      "bin": "reuse",
+      "plasticCode": null,
+      "pollutionLevel": 1,
+      "decomposeTime": "Giảm đáng kể nếu tái dùng nhiều lần",
+      "explanation": "Đồ chơi còn nguyên có thể tặng hoặc dùng lại thay vì vứt bỏ.",
+      "image": "/assets/trash/trash_004-vit-do-choi-nhua.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.67456,
+        "y": 0.82857
+      },
+      "hotspotId": "hotspot_046",
+      "imageOriginal": "Vịt đồ chơi nhựa.png",
+      "shortExplanation": "Đồ chơi còn nguyên có thể tặng hoặc dùng lại thay vì vứt bỏ."
+    },
+    {
+      "id": "trash_005",
+      "name": "Vỏ kẹo bằng nhựa (dạng nilong)",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Vỏ kẹo rất nhỏ, nhẹ và thường làm từ màng nhựa mỏng. Loại rác này khó thu gom, khó làm sạch và hầu như không được tái chế.",
+      "image": "/assets/trash/trash_005-vo-keo-bang-nhua-dang-nilong.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.68164,
+        "y": 0.91758
+      },
+      "hotspotId": "hotspot_055",
+      "imageOriginal": "vỏ kẹo bằng nhựa (dạng nilong).png",
+      "shortExplanation": "Vỏ kẹo rất nhỏ, nhẹ và thường làm từ màng nhựa mỏng. Loại rác này khó thu gom, khó làm sạch và hầu như không được tái chế."
+    },
+    {
+      "id": "trash_006",
+      "name": "Dép cao su",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "",
+      "explanation": "Dép cao su thuộc nhóm vật liệu polymer có tính đàn hồi, gần với nhóm nhựa dẻo trong đời sống. Tuy nhiên, dép thường được pha thêm màu, phụ gia, keo hoặc nhiều lớp vật liệu khác nhau nên khó tách và khó tái chế bằng hệ thống xử lý  nhựa thông thường.",
+      "image": "/assets/trash/trash_006-dep-cao-su.png",
+      "isDecoy": true,
+      "mapPosition": {
+        "x": 0.41675,
+        "y": 0.51758
+      },
+      "hotspotId": "hotspot_023",
+      "imageOriginal": "dép cao su.png",
+      "shortExplanation": "Dép cao su thuộc nhóm vật liệu polymer có tính đàn hồi, gần với nhóm nhựa dẻo trong đời sống. Tuy nhiên, dép thường được pha thêm màu, phụ gia, keo hoặc nhiều lớp vật liệu khác nhau nên khó tách và khó tái chế bằng hệ thống xử lý nhựa thông thường."
+    },
+    {
+      "id": "trash_007",
+      "name": "Thùng đựng hàng nhựa",
+      "bin": "reuse",
+      "plasticCode": null,
+      "pollutionLevel": 1,
+      "decomposeTime": "Giảm đáng kể nếu tái dùng nhiều lần",
+      "explanation": "Thùng cứng còn tốt có thể dùng lại để đựng đồ nhiều lần.",
+      "image": "/assets/trash/trash_007-thung-dung-hang-nhua.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.3252,
+        "y": 0.95788
+      },
+      "hotspotId": "hotspot_059",
+      "imageOriginal": "Thùng đựng hàng nhựa.png",
+      "shortExplanation": "Thùng cứng còn tốt có thể dùng lại để đựng đồ nhiều lần."
+    },
+    {
+      "id": "trash_008",
+      "name": "Bóng bay vỡ",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Bóng bay có thể làm từ latex cao su hoặc màng nhựa phủ kim loại như bóng bạc. Khi bị vỡ, chúng tạo thành những mảnh nhỏ, mềm, nhiều màu và rất khó thu gom. Những mảnh này có thể bị chim, cá hoặc động vật khác nhầm là thức ăn.",
+      "image": "/assets/trash/trash_008-bong-bay-vo.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.57422,
+        "y": 0.88205
+      },
+      "hotspotId": "hotspot_050",
+      "imageOriginal": "Bóng bay vỡ.png",
+      "shortExplanation": "Bóng bay có thể làm từ latex cao su hoặc màng nhựa phủ kim loại như bóng bạc. Khi bị vỡ, chúng tạo thành những mảnh nhỏ, mềm, nhiều màu và rất khó thu gom. Những mảnh này có thể bị chim, cá hoặc động vật khác nhầm là thức ăn."
+    },
+    {
+      "id": "trash_009",
+      "name": "Túi nilong nhiều màu",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Túi mỏng nhiều màu khó tái chế; dễ tắc máy phân loại.",
+      "image": "/assets/trash/trash_009-tui-nilong-nhieu-mau.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.97681,
+        "y": 0.2381
+      },
+      "hotspotId": "hotspot_003",
+      "imageOriginal": "Túi nilong nhiều màu.png",
+      "shortExplanation": "Túi mỏng nhiều màu khó tái chế; dễ tắc máy phân loại."
+    },
+    {
+      "id": "trash_010",
+      "name": "Thùng xốp đựng đồ",
+      "bin": "reuse",
+      "plasticCode": null,
+      "pollutionLevel": 1,
+      "decomposeTime": "Giảm đáng kể nếu tái dùng nhiều lần",
+      "explanation": "Thùng xốp sạch và còn nguyên có thể dùng lại để giữ lạnh, đựng đồ hoặc bảo quản hàng hóa. Nếu bị vỡ vụn thì rất khó xử lý.",
+      "image": "/assets/trash/trash_010-thung-xop-dung-do.png",
+      "isDecoy": false,
+      "mapPosition": null,
+      "hotspotId": null,
+      "imageOriginal": "Thùng xốp đựng đồ.png",
+      "shortExplanation": "Thùng xốp sạch và còn nguyên có thể dùng lại để giữ lạnh, đựng đồ hoặc bảo quản hàng hóa. Nếu bị vỡ vụn thì rất khó xử lý."
+    },
+    {
+      "id": "trash_011",
+      "name": "Ghế nhựa bị hỏng chân",
+      "bin": "recycle",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Ghế nhựa hỏng không còn dùng được nhưng phần nhựa cứng vẫn có thể được thu gom để tái chế.",
+      "image": "/assets/trash/trash_011-ghe-nhua-bi-hong-chan.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.69287,
+        "y": 0.44652
+      },
+      "hotspotId": "hotspot_017",
+      "imageOriginal": "Ghế nhựa bị hỏng chân.png",
+      "shortExplanation": "Ghế nhựa hỏng không còn dùng được nhưng phần nhựa cứng vẫn có thể được thu gom để tái chế."
+    },
+    {
+      "id": "trash_012",
+      "name": "Chai lọ nhựa đựng sốt tại quán ăn",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 4,
+      "decomposeTime": "Không thể tái chế — cần xử lý riêng",
+      "explanation": "Dính dầu mỡ, gia vị tại quán ăn — cần rửa sạch hoặc xử lý riêng.",
+      "image": "/assets/trash/trash_012-chai-lo-nhua-dung-sot-tai-quan-an.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.52344,
+        "y": 0.73187
+      },
+      "hotspotId": "hotspot_040",
+      "imageOriginal": "Chai lọ nhựa đựng sốt tại quán ăn.png",
+      "shortExplanation": "Dính dầu mỡ, gia vị tại quán ăn — cần rửa sạch hoặc xử lý riêng."
+    },
+    {
+      "id": "trash_013",
+      "name": "Hộp cơm nhựa dính nhiều thức ăn",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 4,
+      "decomposeTime": "Không thể tái chế — cần xử lý riêng",
+      "explanation": "Hộp cơm dính dầu mỡ và thức ăn thừa không nên bỏ vào thùng tái chế. Chất bẩn có thể làm hỏng cả lô rác nhựa sạch.",
+      "image": "/assets/trash/trash_013-hop-com-nhua-dinh-nhieu-thuc-an.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.48706,
+        "y": 0.57875
+      },
+      "hotspotId": "hotspot_029",
+      "imageOriginal": "Hộp cơm nhựa dính nhiều thức ăn.png",
+      "shortExplanation": "Hộp cơm dính dầu mỡ và thức ăn thừa không nên bỏ vào thùng tái chế. Chất bẩn có thể làm hỏng cả lô rác nhựa sạch."
+    },
+    {
+      "id": "trash_014",
+      "name": "Chai tương ớt PET bẩn",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 4,
+      "decomposeTime": "Không thể tái chế — cần xử lý riêng",
+      "explanation": "Chai nhựa còn thức ăn bên trong cần được rửa sạch trước khi tái chế.",
+      "image": "/assets/trash/trash_014-chai-tuong-ot-pet-ban.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.72314,
+        "y": 0.53663
+      },
+      "hotspotId": "hotspot_026",
+      "imageOriginal": "Chai tương ớt PET bẩn.png",
+      "shortExplanation": "Chai nhựa còn thức ăn bên trong cần được rửa sạch trước khi tái chế."
+    },
+    {
+      "id": "trash_015",
+      "name": "Can nhựa đựng hóa chất",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 4,
+      "decomposeTime": "Không thể tái chế — cần xử lý riêng",
+      "explanation": "Can hóa chất có thể còn tồn dư chất nguy hiểm. Loại rác này cần được xử lý riêng để tránh rò rỉ và gây ô nhiễm môi trường.",
+      "image": "/assets/trash/trash_015-can-nhua-dung-hoa-chat.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.60376,
+        "y": 0.50806
+      },
+      "hotspotId": "hotspot_022",
+      "imageOriginal": "Can nhựa đựng hóa chất (2).png",
+      "shortExplanation": "Can hóa chất có thể còn tồn dư chất nguy hiểm. Loại rác này cần được xử lý riêng để tránh rò rỉ và gây ô nhiễm môi trường."
+    },
+    {
+      "id": "trash_016",
+      "name": "Khẩu trang y tế",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 4,
+      "decomposeTime": "Không thể tái chế — cần xử lý riêng",
+      "explanation": "Khẩu trang đã dùng có thể chứa vi khuẩn, bụi bẩn và dịch tiết. Đây không phải là rác tái chế thông thường.",
+      "image": "/assets/trash/trash_016-khau-trang-y-te.png",
+      "isDecoy": false,
+      "mapPosition": null,
+      "hotspotId": null,
+      "imageOriginal": "Khẩu trang y tế (2).png",
+      "shortExplanation": "Khẩu trang đã dùng có thể chứa vi khuẩn, bụi bẩn và dịch tiết. Đây không phải là rác tái chế thông thường."
+    },
+    {
+      "id": "trash_017",
+      "name": "Găng tay nhựa dùng một lần",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 4,
+      "decomposeTime": "Không thể tái chế — cần xử lý riêng",
+      "explanation": "Dễ nhiễm bẩn sinh học và khó tái chế.",
+      "image": "/assets/trash/trash_017-gang-tay-nhua-dung-mot-lan.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.62891,
+        "y": 0.66447
+      },
+      "hotspotId": "hotspot_038",
+      "imageOriginal": "Găng tay nhựa dùng một lần.png",
+      "shortExplanation": "Dễ nhiễm bẩn sinh học và khó tái chế."
+    },
+    {
+      "id": "trash_018",
+      "name": "Quạt nhựa",
+      "bin": "reuse",
+      "plasticCode": null,
+      "pollutionLevel": 1,
+      "decomposeTime": "Giảm đáng kể nếu tái dùng nhiều lần",
+      "explanation": "Quạt nhựa còn sử dụng được nên ưu tiên tái sử dụng, sửa chữa hoặc chuyển cho người khác dùng tiếp thay vì vứt bỏ.",
+      "image": "/assets/trash/trash_018-quat-nhua.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.66797,
+        "y": 0.47509
+      },
+      "hotspotId": "hotspot_020",
+      "imageOriginal": "Quạt nhựa.png",
+      "shortExplanation": "Quạt nhựa còn sử dụng được nên ưu tiên tái sử dụng, sửa chữa hoặc chuyển cho người khác dùng tiếp thay vì vứt bỏ."
+    },
+    {
+      "id": "trash_019",
+      "name": "Chai dầu nhớt nhựa",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 4,
+      "decomposeTime": "Không thể tái chế — cần xử lý riêng",
+      "explanation": "Dầu nhớt bám trong chai rất khó rửa sạch và có thể gây ô nhiễm nghiêm trọng.",
+      "image": "/assets/trash/trash_019-chai-dau-nhot-nhua.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.82715,
+        "y": 0.22418
+      },
+      "hotspotId": "hotspot_002",
+      "imageOriginal": "Chai dầu nhớt nhựa.png",
+      "shortExplanation": "Dầu nhớt bám trong chai rất khó rửa sạch và có thể gây ô nhiễm nghiêm trọng."
+    },
+    {
+      "id": "trash_020",
+      "name": "Xi lanh nhựa",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 4,
+      "decomposeTime": "Không thể tái chế — cần xử lý riêng",
+      "explanation": "Là rác thải y tế cần xử lý riêng biệt. Xi lanh là rác thải y tế, có nguy cơ lây nhiễm hoặc gây thương tích nếu còn kim nhọn.",
+      "image": "/assets/trash/trash_020-xi-lanh-nhua.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.7168,
+        "y": 0.26337
+      },
+      "hotspotId": "hotspot_005",
+      "imageOriginal": "Xi lanh nhựa.png",
+      "shortExplanation": "Là rác thải y tế cần xử lý riêng biệt. Xi lanh là rác thải y tế, có nguy cơ lây nhiễm hoặc gây thương tích nếu còn kim nhọn."
+    },
+    {
+      "id": "trash_021",
+      "name": "Túi nilon siêu thị LDPE (#4)",
+      "bin": "low-value",
+      "plasticCode": "#4 LDPE",
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Túi nilon mỏng rất khó thu gom và dễ làm tắc máy tái chế. Nếu bị vứt ra môi trường có thể tồn tại hàng trăm năm.",
+      "image": "/assets/trash/trash_021-tui-nilon-sieu-thi-ldpe-4.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.57104,
+        "y": 0.07912
+      },
+      "hotspotId": "hotspot_001",
+      "imageOriginal": "Túi nilon siêu thị LDPE (#4).png",
+      "shortExplanation": "Túi nilon mỏng rất khó thu gom và dễ làm tắc máy tái chế. Nếu bị vứt ra môi trường có thể tồn tại hàng trăm năm."
+    },
+    {
+      "id": "trash_022",
+      "name": "Ống hút nhựa PP (#5)",
+      "bin": "low-value",
+      "plasticCode": "#5 PP",
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Ống hút nhỏ, nhẹ và thường bị bỏ sót trong quá trình phân loại. Đây là loại nhựa dùng một lần nên nên hạn chế sử dụng.",
+      "image": "/assets/trash/trash_022-ong-hut-nhua-pp-5.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.55737,
+        "y": 0.46227
+      },
+      "hotspotId": "hotspot_019",
+      "imageOriginal": "Ống hút nhựa PP (#5).png",
+      "shortExplanation": "Ống hút nhỏ, nhẹ và thường bị bỏ sót trong quá trình phân loại. Đây là loại nhựa dùng một lần nên nên hạn chế sử dụng."
+    },
+    {
+      "id": "trash_023",
+      "name": "Hộp xốp đựng thức ăn PS (#6)",
+      "bin": "low-value",
+      "plasticCode": "#6 PS",
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Nhựa xốp rất khó tái chế vì nhẹ, cồng kềnh và dễ vỡ thành vi nhựa. Thời gian phân hủy có thể hơn 500 năm.",
+      "image": "/assets/trash/trash_023-hop-xop-dung-thuc-an-ps-6.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.8418,
+        "y": 0.65495
+      },
+      "hotspotId": "hotspot_036",
+      "imageOriginal": "Hộp xốp đựng thức ăn PS (#6).png",
+      "shortExplanation": "Nhựa xốp rất khó tái chế vì nhẹ, cồng kềnh và dễ vỡ thành vi nhựa. Thời gian phân hủy có thể hơn 500 năm."
+    },
+    {
+      "id": "trash_024",
+      "name": "Muỗng nhựa dùng một lần",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Kích thước nhỏ khiến chúng khó được phân loại trong nhà máy tái chế.",
+      "image": "/assets/trash/trash_024-muong-nhua-dung-mot-lan.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.63745,
+        "y": 0.55055
+      },
+      "hotspotId": "hotspot_027",
+      "imageOriginal": "Muỗng nhựa dùng một lần.png",
+      "shortExplanation": "Kích thước nhỏ khiến chúng khó được phân loại trong nhà máy tái chế."
+    },
+    {
+      "id": "trash_025",
+      "name": "Bao bì snack nhiều lớp",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Bao bì thường gồm nhiều lớp nhựa và kim loại ép lại với nhau nên gần như không thể tái chế thông thường.",
+      "image": "/assets/trash/trash_025-bao-bi-snack-nhieu-lop.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.79712,
+        "y": 0.81612
+      },
+      "hotspotId": "hotspot_045",
+      "imageOriginal": "Bao bì snack nhiều lớp.png",
+      "shortExplanation": "Bao bì thường gồm nhiều lớp nhựa và kim loại ép lại với nhau nên gần như không thể tái chế thông thường."
+    },
+    {
+      "id": "trash_026",
+      "name": "Màng bọc thực phẩm",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Màng bọc sau khi dùng thường dính dầu, nước hoặc thức ăn. Lớp nhựa quá mỏng và bẩn khiến việc tái chế không hiệu quả.",
+      "image": "/assets/trash/trash_026-mang-boc-thuc-pham.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.49927,
+        "y": 0.49304
+      },
+      "hotspotId": "hotspot_021",
+      "imageOriginal": "Màng bọc thực phẩm.png",
+      "shortExplanation": "Màng bọc sau khi dùng thường dính dầu, nước hoặc thức ăn. Lớp nhựa quá mỏng và bẩn khiến việc tái chế không hiệu quả."
+    },
+    {
+      "id": "trash_027",
+      "name": "Bàn chải đánh răng nhựa",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Bàn chải gồm cán nhựa, lông chải và đôi khi có cao su. Nhiều vật liệu dính liền khiến sản phẩm này rất khó tái chế.",
+      "image": "/assets/trash/trash_027-ban-chai-danh-rang-nhua.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.59326,
+        "y": 0.34322
+      },
+      "hotspotId": "hotspot_009",
+      "imageOriginal": "Bàn chải đánh răng nhựa.png",
+      "shortExplanation": "Bàn chải gồm cán nhựa, lông chải và đôi khi có cao su. Nhiều vật liệu dính liền khiến sản phẩm này rất khó tái chế."
+    },
+    {
+      "id": "trash_028",
+      "name": "Lưới nhựa đựng trái cây",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Lưới nhựa mỏng, nhẹ và dễ rối vào thiết bị xử lý rác. Vì vậy, nó không phù hợp với dòng nhựa tái chế thông thường.",
+      "image": "/assets/trash/trash_028-luoi-nhua-dung-trai-cay.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.07983,
+        "y": 0.6674
+      },
+      "hotspotId": "hotspot_039",
+      "imageOriginal": "Lưới nhựa đựng trái cây.png",
+      "shortExplanation": "Lưới nhựa mỏng, nhẹ và dễ rối vào thiết bị xử lý rác. Vì vậy, nó không phù hợp với dòng nhựa tái chế thông thường."
+    },
+    {
+      "id": "trash_029",
+      "name": "Hộp nhựa đựng nước chấm",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Quá nhỏ và thường dính thức ăn.",
+      "image": "/assets/trash/trash_029-hop-nhua-dung-nuoc-cham.png",
+      "isDecoy": false,
+      "mapPosition": null,
+      "hotspotId": null,
+      "imageOriginal": "Hộp nhựa đựng nước chấm.png",
+      "shortExplanation": "Quá nhỏ và thường dính thức ăn."
+    },
+    {
+      "id": "trash_030",
+      "name": "Lưới đánh cá nhựa",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Lưới đánh cá dễ bị rối, khó thu gom và có thể mắc vào sinh vật biển. Đây là loại rác nhựa cần được quản lý cẩn thận.",
+      "image": "/assets/trash/trash_030-luoi-danh-ca-nhua.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.43433,
+        "y": 0.88645
+      },
+      "hotspotId": "hotspot_049",
+      "imageOriginal": "Lưới đánh cá nhựa.png",
+      "shortExplanation": "Lưới đánh cá dễ bị rối, khó thu gom và có thể mắc vào sinh vật biển. Đây là loại rác nhựa cần được quản lý cẩn thận."
+    },
+    {
+      "id": "trash_031",
+      "name": "Áo mưa dùng một lần",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Áo mưa mỏng, dễ rách và khó tái chế sau khi sử dụng. Nếu bị vứt bừa bãi, chúng dễ bay ra đường, cống rãnh hoặc sông hồ.",
+      "image": "/assets/trash/trash_031-ao-mua-dung-mot-lan.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.10645,
+        "y": 0.84505
+      },
+      "hotspotId": "hotspot_047",
+      "imageOriginal": "Áo mưa dùng một lần.png",
+      "shortExplanation": "Áo mưa mỏng, dễ rách và khó tái chế sau khi sử dụng. Nếu bị vứt bừa bãi, chúng dễ bay ra đường, cống rãnh hoặc sông hồ."
+    },
+    {
+      "id": "trash_032",
+      "name": "Hộp sữa chua nhựa",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Hộp sữa chua thường còn dính thực phẩm bên trong. Nếu không được rửa sạch, nó sẽ làm bẩn các loại nhựa tái chế khác.",
+      "image": "/assets/trash/trash_032-hop-sua-chua-nhua.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.77856,
+        "y": 0.65311
+      },
+      "hotspotId": "hotspot_035",
+      "imageOriginal": "Hộp sữa chua nhựa.png",
+      "shortExplanation": "Hộp sữa chua thường còn dính thực phẩm bên trong. Nếu không được rửa sạch, nó sẽ làm bẩn các loại nhựa tái chế khác."
+    },
+    {
+      "id": "trash_033",
+      "name": "bịch bánh tráng",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Bịch bánh tráng thường dính dầu, muối, sa tế và gia vị. Đây là bao bì mỏng, bẩn nên rất khó thu gom và tái chế.",
+      "image": "/assets/trash/trash_033-bich-banh-trang.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.64136,
+        "y": 0.74799
+      },
+      "hotspotId": "hotspot_043",
+      "imageOriginal": "bịch bánh tráng.png",
+      "shortExplanation": "Bịch bánh tráng thường dính dầu, muối, sa tế và gia vị. Đây là bao bì mỏng, bẩn nên rất khó thu gom và tái chế."
+    },
+    {
+      "id": "trash_034",
+      "name": "Chai nước suối PET (#1)",
+      "bin": "recycle",
+      "plasticCode": "#1 PET",
+      "pollutionLevel": 2,
+      "decomposeTime": "450–500 năm (PET/HDPE)",
+      "explanation": "Chai nước PET sạch, rỗng và khô là loại nhựa dễ tái chế. Nên đổ hết nước, ép dẹp chai và bỏ đúng thùng.",
+      "image": "/assets/trash/trash_034-chai-nuoc-suoi-pet-1.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.87231,
+        "y": 0.9044
+      },
+      "hotspotId": "hotspot_053",
+      "imageOriginal": "Chai nước suối PET (#1).png",
+      "shortExplanation": "Chai nước PET sạch, rỗng và khô là loại nhựa dễ tái chế. Nên đổ hết nước, ép dẹp chai và bỏ đúng thùng."
+    },
+    {
+      "id": "trash_035",
+      "name": "Nắp chai nhựa PP",
+      "bin": "recycle",
+      "plasticCode": "#5 PP",
+      "pollutionLevel": 2,
+      "decomposeTime": "450–500 năm (PET/HDPE)",
+      "explanation": "Nắp chai có thể được tái chế nếu được thu gom đúng cách. Tốt nhất là vặn lại vào chai để tránh thất lạc do kích thước nhỏ.",
+      "image": "/assets/trash/trash_035-nap-chai-nhua-pp.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.67505,
+        "y": 0.53223
+      },
+      "hotspotId": "hotspot_024",
+      "imageOriginal": "Nắp chai nhựa PP.png",
+      "shortExplanation": "Nắp chai có thể được tái chế nếu được thu gom đúng cách. Tốt nhất là vặn lại vào chai để tránh thất lạc do kích thước nhỏ."
+    },
+    {
+      "id": "trash_036",
+      "name": "Chai dầu gội HDPE (#2)",
+      "bin": "recycle",
+      "plasticCode": "#2 HDPE",
+      "pollutionLevel": 2,
+      "decomposeTime": "450–500 năm (PET/HDPE)",
+      "explanation": "Chai dầu gội làm từ nhựa cứng, có khả năng tái chế tốt. Trước khi bỏ đi, nên dùng hết sản phẩm và tráng sơ nếu có thể.",
+      "image": "/assets/trash/trash_036-chai-dau-goi-hdpe-2.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.34009,
+        "y": 0.38498
+      },
+      "hotspotId": "hotspot_013",
+      "imageOriginal": "Chai dầu gội HDPE (#2).png",
+      "shortExplanation": "Chai dầu gội làm từ nhựa cứng, có khả năng tái chế tốt. Trước khi bỏ đi, nên dùng hết sản phẩm và tráng sơ nếu có thể."
+    },
+    {
+      "id": "trash_037",
+      "name": "Chai nước giặt/xả lớn HDPE (#2)",
+      "bin": "recycle",
+      "plasticCode": null,
+      "pollutionLevel": 2,
+      "decomposeTime": "450–500 năm (PET/HDPE)",
+      "explanation": "Chai nước giặt lớn dễ nhận diện và có giá trị tái chế cao. Cần đổ hết dung dịch còn lại trước khi bỏ vào thùng tái chế.",
+      "image": "/assets/trash/trash_037-chai-nuoc-giat-xa-lon-hdpe-2.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.75952,
+        "y": 0.41648
+      },
+      "hotspotId": "hotspot_015",
+      "imageOriginal": "Chai nước giặt-xả lớn HDPE (#2).png",
+      "shortExplanation": "Chai nước giặt lớn dễ nhận diện và có giá trị tái chế cao. Cần đổ hết dung dịch còn lại trước khi bỏ vào thùng tái chế."
+    },
+    {
+      "id": "trash_038",
+      "name": "Hộp đựng bánh trong suốt",
+      "bin": "reuse",
+      "plasticCode": null,
+      "pollutionLevel": 1,
+      "decomposeTime": "Giảm đáng kể nếu tái dùng nhiều lần",
+      "explanation": "Hộp còn sạch và không bị nứt có thể dùng lại để đựng đồ ăn khô, đồ thủ công hoặc vật dụng nhỏ trong nhà.",
+      "image": "/assets/trash/trash_038-hop-dung-banh-trong-suot.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.63037,
+        "y": 0.25238
+      },
+      "hotspotId": "hotspot_004",
+      "imageOriginal": "Hộp đựng bánh trong suốt.png",
+      "shortExplanation": "Hộp còn sạch và không bị nứt có thể dùng lại để đựng đồ ăn khô, đồ thủ công hoặc vật dụng nhỏ trong nhà."
+    },
+    {
+      "id": "trash_039",
+      "name": "Hũ nhựa đựng kẹo",
+      "bin": "reuse",
+      "plasticCode": null,
+      "pollutionLevel": 1,
+      "decomposeTime": "Giảm đáng kể nếu tái dùng nhiều lần",
+      "explanation": "Dùng lại nhiều lần giúp giảm lượng nhựa dùng một lần.",
+      "image": "/assets/trash/trash_039-hu-nhua-dung-keo.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.10181,
+        "y": 0.57179
+      },
+      "hotspotId": "hotspot_028",
+      "imageOriginal": "Hũ nhựa đựng kẹo.png",
+      "shortExplanation": "Dùng lại nhiều lần giúp giảm lượng nhựa dùng một lần."
+    },
+    {
+      "id": "trash_040",
+      "name": "Khay nhựa đựng trứng",
+      "bin": "reuse",
+      "plasticCode": null,
+      "pollutionLevel": 1,
+      "decomposeTime": "Giảm đáng kể nếu tái dùng nhiều lần",
+      "explanation": "Khay trứng còn nguyên có thể dùng lại để đựng trứng, ươm cây hoặc làm đồ thủ công. Đây là cách tận dụng rác nhựa hiệu quả.",
+      "image": "/assets/trash/trash_040-khay-nhua-dung-trung.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.28687,
+        "y": 0.61758
+      },
+      "hotspotId": "hotspot_032",
+      "imageOriginal": "Khay nhựa đựng trứng.png",
+      "shortExplanation": "Khay trứng còn nguyên có thể dùng lại để đựng trứng, ươm cây hoặc làm đồ thủ công. Đây là cách tận dụng rác nhựa hiệu quả."
+    },
+    {
+      "id": "trash_041",
+      "name": "Chậu cây nhựa",
+      "bin": "reuse",
+      "plasticCode": null,
+      "pollutionLevel": 1,
+      "decomposeTime": "Giảm đáng kể nếu tái dùng nhiều lần",
+      "explanation": "Chậu cây nhựa có thể dùng trong thời gian dài. Nếu chưa vỡ, nên tiếp tục trồng cây hoặc chuyển cho người khác dùng lại.",
+      "image": "/assets/trash/trash_041-chau-cay-nhua.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.79004,
+        "y": 0.28864
+      },
+      "hotspotId": "hotspot_007",
+      "imageOriginal": "Chậu cây nhựa.png",
+      "shortExplanation": "Chậu cây nhựa có thể dùng trong thời gian dài. Nếu chưa vỡ, nên tiếp tục trồng cây hoặc chuyển cho người khác dùng lại."
+    },
+    {
+      "id": "trash_042",
+      "name": "Vỏ hộp sữa",
+      "bin": "recycle",
+      "plasticCode": null,
+      "pollutionLevel": 2,
+      "decomposeTime": "450–500 năm (PET/HDPE)",
+      "explanation": "Hộp sữa là bao bì đa lớp gồm giấy, nhựa và nhôm. Nếu được làm rỗng, gấp gọn và thu gom đúng nơi, chúng vẫn có thể được tái chế bằng công nghệ phù hợp.",
+      "image": "/assets/trash/trash_042-vo-hop-sua.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.59106,
+        "y": 0.73663
+      },
+      "hotspotId": "hotspot_042",
+      "imageOriginal": "Vỏ hộp sữa.png",
+      "shortExplanation": "Hộp sữa là bao bì đa lớp gồm giấy, nhựa và nhôm. Nếu được làm rỗng, gấp gọn và thu gom đúng nơi, chúng vẫn có thể được tái chế bằng công nghệ phù hợp."
+    },
+    {
+      "id": "trash_043",
+      "name": "Vỏ thuốc",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Vỉ thuốc thường được ép từ nhựa và nhôm nên rất khó tách rời. Nếu còn thuốc bên trong, cần thu gom riêng để tránh nguy hiểm.",
+      "image": "/assets/trash/trash_043-vo-thuoc.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.81738,
+        "y": 0.537
+      },
+      "hotspotId": "hotspot_025",
+      "imageOriginal": "Vỏ thuốc.png",
+      "shortExplanation": "Vỉ thuốc thường được ép từ nhựa và nhôm nên rất khó tách rời. Nếu còn thuốc bên trong, cần thu gom riêng để tránh nguy hiểm."
+    },
+    {
+      "id": "trash_044",
+      "name": "Túi bọc ly cà phê/bánh mì/trà sữa",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Nhựa mỏng và dễ bẩn khiến việc tái chế khó khăn.",
+      "image": "/assets/trash/trash_044-tui-boc-ly-ca-phe-banh-mi-tra-sua.png",
+      "isDecoy": false,
+      "mapPosition": null,
+      "hotspotId": null,
+      "imageOriginal": "Túi bọc ly cà phê-bánh mì-trà sữa.png",
+      "shortExplanation": "Nhựa mỏng và dễ bẩn khiến việc tái chế khó khăn."
+    },
+    {
+      "id": "trash_045",
+      "name": "Dây nilon buộc rau",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Nhỏ và dễ bị bỏ sót trong phân loại rác.",
+      "image": "/assets/trash/_placeholder.svg",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.08008,
+        "y": 0.59487
+      },
+      "hotspotId": "hotspot_030",
+      "imageOriginal": null,
+      "shortExplanation": "Nhỏ và dễ bị bỏ sót trong phân loại rác."
+    },
+    {
+      "id": "trash_046",
+      "name": "Túi đựng quần áo online",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "100–500+ năm",
+      "explanation": "Túi giao hàng thường là nhựa mềm, có keo dán, tem nhãn và mực in. Những yếu tố này làm việc tái chế trở nên khó khăn.",
+      "image": "/assets/trash/trash_046-tui-dung-quan-ao-online.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.0437,
+        "y": 0.41136
+      },
+      "hotspotId": "hotspot_014",
+      "imageOriginal": "Túi đựng quần áo online.png",
+      "shortExplanation": "Túi giao hàng thường là nhựa mềm, có keo dán, tem nhãn và mực in. Những yếu tố này làm việc tái chế trở nên khó khăn."
+    },
+    {
+      "id": "trash_047",
+      "name": "Hộp cơm nhựa PP (#5) sạch",
+      "bin": "reuse",
+      "plasticCode": "#5 PP",
+      "pollutionLevel": 1,
+      "decomposeTime": "Giảm đáng kể nếu tái dùng nhiều lần",
+      "explanation": "Có thể dùng lại nhiều lần nếu chưa biến dạng hoặc nhiễm dầu mỡ quá nặng.",
+      "image": "/assets/trash/trash_047-hop-com-nhua-pp-5-sach.png",
+      "isDecoy": false,
+      "mapPosition": null,
+      "hotspotId": null,
+      "imageOriginal": "Hộp cơm nhựa dính nhiều thức ăn.png",
+      "shortExplanation": "Có thể dùng lại nhiều lần nếu chưa biến dạng hoặc nhiễm dầu mỡ quá nặng."
+    },
+    {
+      "id": "trash_048",
+      "name": "Bao gạo – bao thức ăn chăn nuôi",
+      "bin": "reuse",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "",
+      "explanation": "Bao còn sạch có thể dùng lại để đựng đồ, gom rác hoặc che phủ vật dụng.",
+      "image": "/assets/trash/trash_048-bao-gao-bao-thuc-an-chan-nuoi.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.21631,
+        "y": 0.26886
+      },
+      "hotspotId": "hotspot_006",
+      "imageOriginal": "Bao gạo-bao thức ăn chăn nuôi.png",
+      "shortExplanation": "Bao còn sạch có thể dùng lại để đựng đồ, gom rác hoặc che phủ vật dụng."
+    },
+    {
+      "id": "trash_049",
+      "name": "Bút bi",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 0,
+      "decomposeTime": "",
+      "explanation": "Kích thước nhỏ, có nhiều vật liệu như nhựa, mực, kim loại nên khó tái chế.",
+      "image": "/assets/trash/trash_049-but-bi.png",
+      "isDecoy": true,
+      "mapPosition": {
+        "x": 0.19336,
+        "y": 0.62637
+      },
+      "hotspotId": "hotspot_033",
+      "imageOriginal": "Bút bi.png",
+      "shortExplanation": "Kích thước nhỏ, có nhiều vật liệu như nhựa, mực, kim loại nên khó tái chế."
+    },
+    {
+      "id": "trash_050",
+      "name": "Bật lửa",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 0,
+      "decomposeTime": "",
+      "explanation": "Có thể còn gas hoặc chất dễ cháy, không nên bỏ vào rác nhựa thường.",
+      "image": "/assets/trash/trash_050-bat-lua.png",
+      "isDecoy": true,
+      "mapPosition": {
+        "x": 0.67588,
+        "y": 0.53081
+      },
+      "hotspotId": "hotspot_112",
+      "imageOriginal": "Bật lửa.png",
+      "shortExplanation": "Có thể còn gas hoặc chất dễ cháy, không nên bỏ vào rác nhựa thường."
+    },
+    {
+      "id": "trash_051",
+      "name": "Can nhựa đựng hóa chất (2)",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "",
+      "explanation": "Can hóa chất có thể còn tồn dư chất nguy hiểm. Loại rác này cần được xử lý riêng để tránh rò rỉ và gây ô nhiễm môi trường.",
+      "image": "/assets/trash/trash_051-can-nhua-dung-hoa-chat-2.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.17041,
+        "y": 0.95458
+      },
+      "hotspotId": "hotspot_060",
+      "imageOriginal": "Can nhựa đựng hóa chất (2).png",
+      "shortExplanation": "Can hóa chất có thể còn tồn dư chất nguy hiểm. Loại rác này cần được xử lý riêng để tránh rò rỉ và gây ô nhiễm môi trường."
+    },
+    {
+      "id": "trash_052",
+      "name": "Chai dầu ăn",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "",
+      "explanation": "Chai dầu ăn thường còn lớp dầu bám bên trong. Dầu làm bẩn nhựa tái chế, nên chai chỉ phù hợp tái chế khi đã được rửa sạch.",
+      "image": "/assets/trash/trash_052-chai-dau-an.png",
+      "isDecoy": false,
+      "mapPosition": null,
+      "hotspotId": null,
+      "imageOriginal": "Chai dầu ăn.png",
+      "shortExplanation": "Chai dầu ăn thường còn lớp dầu bám bên trong. Dầu làm bẩn nhựa tái chế, nên chai chỉ phù hợp tái chế khi đã được rửa sạch."
+    },
+    {
+      "id": "trash_053",
+      "name": "Chai nước giặt-xả lớn HDPE (#2)",
+      "bin": "recycle",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "",
+      "explanation": "Chai nước giặt lớn dễ nhận diện và có giá trị tái chế cao. Cần đổ hết dung dịch còn lại trước khi bỏ vào thùng tái chế.",
+      "image": "/assets/trash/trash_053-chai-nuoc-giat-xa-lon-hdpe-2.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.58765,
+        "y": 0.9293
+      },
+      "hotspotId": "hotspot_057",
+      "imageOriginal": "Chai nước giặt-xả lớn HDPE (#2).png",
+      "shortExplanation": "Chai nước giặt lớn dễ nhận diện và có giá trị tái chế cao. Cần đổ hết dung dịch còn lại trước khi bỏ vào thùng tái chế."
+    },
+    {
+      "id": "trash_054",
+      "name": "Dây điện",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 0,
+      "decomposeTime": "",
+      "explanation": "Dây điện gồm lõi kim loại và lớp vỏ nhựa cách điện. Đây không phải rác nhựa thông thường mà nên được thu gom riêng để tách vật liệu an toàn.",
+      "image": "/assets/trash/trash_054-day-dien.png",
+      "isDecoy": true,
+      "mapPosition": {
+        "x": 0.47729,
+        "y": 0.65861
+      },
+      "hotspotId": "hotspot_037",
+      "imageOriginal": "Dây điện.png",
+      "shortExplanation": "Dây điện gồm lõi kim loại và lớp vỏ nhựa cách điện. Đây không phải rác nhựa thông thường mà nên được thu gom riêng để tách vật liệu an toàn."
+    },
+    {
+      "id": "trash_055",
+      "name": "giếng nước (vỉ đựng trứng)",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "",
+      "explanation": "Cần bổ sung phân loại.",
+      "image": "/assets/trash/trash_055-gieng-nuoc-vi-dung-trung.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.29614,
+        "y": 0.62051
+      },
+      "hotspotId": "hotspot_031",
+      "imageOriginal": "giếng nước (vỉ đựng trứng).png",
+      "shortExplanation": "Cần bổ sung phân loại."
+    },
+    {
+      "id": "trash_056",
+      "name": "Khẩu trang y tế (2)",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "",
+      "explanation": "Khẩu trang đã dùng có thể chứa vi khuẩn, bụi bẩn và dịch tiết. Đây không phải là rác tái chế thông thường.",
+      "image": "/assets/trash/trash_056-khau-trang-y-te-2.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.02808,
+        "y": 0.88645
+      },
+      "hotspotId": "hotspot_051",
+      "imageOriginal": "Khẩu trang y tế (2).png",
+      "shortExplanation": "Khẩu trang đã dùng có thể chứa vi khuẩn, bụi bẩn và dịch tiết. Đây không phải là rác tái chế thông thường."
+    },
+    {
+      "id": "trash_057",
+      "name": "Tã-bỉm em bé",
+      "bin": "contaminated",
+      "plasticCode": null,
+      "pollutionLevel": 3,
+      "decomposeTime": "",
+      "explanation": "Có nhựa nhưng đã dính chất thải sinh học, cần xếp vào nhóm rác ô nhiễm.",
+      "image": "/assets/trash/trash_057-ta-bim-em-be.png",
+      "isDecoy": false,
+      "mapPosition": {
+        "x": 0.3811,
+        "y": 0.737
+      },
+      "hotspotId": "hotspot_041",
+      "imageOriginal": "Tã-bỉm em bé.png",
+      "shortExplanation": "Có nhựa nhưng đã dính chất thải sinh học, cần xếp vào nhóm rác ô nhiễm."
+    },
+    {
+      "id": "trash_058",
+      "name": "Ống nước",
+      "bin": "low-value",
+      "plasticCode": null,
+      "pollutionLevel": 0,
+      "decomposeTime": "",
+      "explanation": "Ống nước thường làm từ nhựa cứng có phụ gia, đôi khi dính đất cát hoặc xi măng. Nếu còn dùng được, nên tận dụng lại trước khi bỏ.",
+      "image": "/assets/trash/trash_058-ong-nuoc.png",
+      "isDecoy": true,
+      "mapPosition": {
+        "x": 0.4248,
+        "y": 0.45458
+      },
+      "hotspotId": "hotspot_018",
+      "imageOriginal": "Ống nước.png",
+      "shortExplanation": "Ống nước thường làm từ nhựa cứng có phụ gia, đôi khi dính đất cát hoặc xi măng. Nếu còn dùng được, nên tận dụng lại trước khi bỏ."
+    }
+  ]
+}

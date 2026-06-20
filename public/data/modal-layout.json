@@ -1,0 +1,87 @@
+{
+  "version": "plastic-hunter-popup-layout-fixed-v5",
+  "targetLayout": {
+    "shared": {
+      "gameBackdrop": {
+        "dimOverlay": {
+          "opacity": 0.25
+        }
+      },
+      "modalFrame": {
+        "position": {
+          "x": 50,
+          "y": 55
+        },
+        "size": {
+          "width": 94,
+          "height": 88
+        },
+        "innerBorder": {
+          "inset": 2.0,
+          "style": "solid"
+        }
+      },
+      "closeButton": {
+        "position": {
+          "x": 92.5,
+          "y": 6.5
+        },
+        "size": {
+          "width": 5.8,
+          "height": 8.5
+        },
+        "zIndex": 100
+      },
+      "decorations": {
+        "items": []
+      }
+    },
+    "screens": {
+      "classification": {
+        "id": "classification-popup",
+        "elements": {
+          "instructionText": {
+            "text": "Hãy phân loại vật phẩm nhựa vào thùng phù hợp"
+          },
+          "bins": {
+            "items": [
+              {
+                "id": "recycle",
+                "label": "Nhựa tái chế"
+              },
+              {
+                "id": "reuse",
+                "label": "Nhựa tái sử dụng"
+              },
+              {
+                "id": "hardRecycle",
+                "label": "Nhựa khó tái chế"
+              },
+              {
+                "id": "contaminated",
+                "label": "Nhựa ô nhiễm"
+              }
+            ]
+          }
+        }
+      },
+      "feedback": {
+        "id": "answer-feedback-popup",
+        "variantMap": {
+          "correct": {
+            "characterImage": "/assets/plasty/plasty-v.png",
+            "title": "Chúc mừng bạn đã phân loại đúng",
+            "titleBoxWidth": 52,
+            "titleMaxLines": 1
+          },
+          "wrong": {
+            "characterImage": "/assets/plasty/plasty-x.png",
+            "title": "Bạn phân loại sai rồi, nhựa này cần được xử lí theo cách khác!",
+            "titleBoxWidth": 76,
+            "titleMaxLines": 1
+          }
+        }
+      }
+    }
+  }
+}
